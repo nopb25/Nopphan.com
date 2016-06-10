@@ -2,6 +2,8 @@ $primary-color: #000;
 $secondary-color: #fff;
 $fonts: 'brandon-grotesque', sans-serif;
 
+@import "yamm";
+
 body{
 	font-family: $fonts;
 	color: $primary-color;
